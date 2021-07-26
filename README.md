@@ -2,4 +2,6 @@ I take the "50 Vanilla Javascript Project in 50 days" Challenge. In this series 
 
 Let's make the difference, keep the ball rolling....
 
+Link: https://shahed-bd71.github.io/Day-1---Expanding-Cards/index.html
+
 # Day-1---Expanding-Cards
